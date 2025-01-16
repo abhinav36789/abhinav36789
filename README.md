@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, my name is Abhinav
 
-<!--
-**abhinav36789/abhinav36789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A Little Bit About Me :sunglasses:
 
-Here are some ideas to get you started:
+I am a student at Satish Chandra College Snatakotter Mahavidyalaya, Ballia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a data-driven problem solver with a passion for leveraging data to drive business outcomes. I have spent some time developing my skills in business analytics, data manipulation, and data structures. My experience involves building compelling reports on top of structured data models using tools such as Microsoft Power BI and Excel, and I leveraged my skills in Python and SQL to manipulate and analyze data.
+
+As I continue to grow my skills and expertise, I am eager to collaborate with others and contribute to meaningful projects in the field of data analytics. Whether it's creating innovative visualizations, or uncovering insights that drive business growth, I am committed to using my skills to make a positive impact.
+
+**I recommend looking through the pinned repositories which showcase my skills.**
+
+I spend my free time playing Chess.
